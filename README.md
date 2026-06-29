@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0704-binary-search) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
