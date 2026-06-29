@@ -49,16 +49,19 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
