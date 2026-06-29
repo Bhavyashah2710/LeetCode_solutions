@@ -49,6 +49,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0326-power-of-three) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Bit Manipulation
 |  |
 | ------- |
