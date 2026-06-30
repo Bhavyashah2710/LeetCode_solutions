@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -98,4 +100,8 @@
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
