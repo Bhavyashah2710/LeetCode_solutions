@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -151,10 +152,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
