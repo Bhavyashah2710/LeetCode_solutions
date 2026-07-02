@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -142,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
