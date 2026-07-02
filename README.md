@@ -22,6 +22,7 @@
 | [1528-shuffle-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -128,6 +129,7 @@
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
