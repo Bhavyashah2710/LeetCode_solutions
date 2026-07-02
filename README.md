@@ -27,6 +27,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
+| [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1528-shuffle-string) |
@@ -149,6 +150,7 @@
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -160,6 +162,7 @@
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -186,6 +189,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
