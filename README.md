@@ -34,6 +34,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
@@ -155,6 +156,7 @@
 | [0881-boats-to-save-people](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -169,6 +171,7 @@
 | [0881-boats-to-save-people](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -197,6 +200,7 @@
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
