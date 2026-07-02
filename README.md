@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -31,6 +33,7 @@
 | [0001-two-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
@@ -74,6 +78,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -107,6 +112,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
