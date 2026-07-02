@@ -28,6 +28,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -102,6 +104,7 @@
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
 | ------- |
