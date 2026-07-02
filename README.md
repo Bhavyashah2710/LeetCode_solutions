@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
