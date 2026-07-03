@@ -17,6 +17,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
@@ -222,4 +224,8 @@
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
