@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0054-spiral-matrix) |
@@ -119,6 +120,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
@@ -181,6 +183,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
@@ -248,4 +251,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
