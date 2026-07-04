@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -222,6 +223,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
@@ -262,4 +264,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
