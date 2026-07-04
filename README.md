@@ -36,6 +36,7 @@
 | [0905-sort-array-by-parity](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -110,6 +112,7 @@
 | [0238-product-of-array-except-self](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
