@@ -43,6 +43,7 @@
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1288-remove-covered-intervals](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -224,6 +225,7 @@
 | [0905-sort-array-by-parity](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
+| [1288-remove-covered-intervals](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
