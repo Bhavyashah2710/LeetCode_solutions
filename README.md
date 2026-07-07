@@ -156,6 +156,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
