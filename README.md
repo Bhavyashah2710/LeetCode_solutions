@@ -116,6 +116,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -187,6 +188,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
