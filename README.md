@@ -87,6 +87,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
@@ -185,6 +186,7 @@
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0434-number-of-segments-in-a-string) |
