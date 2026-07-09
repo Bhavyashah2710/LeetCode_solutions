@@ -1,13 +1,24 @@
 class Solution {
     public boolean strongPasswordCheckerII(String password) {
-        if(password.length() < 8 ) return false;
-        if(!password.matches(".*[A-Z].*")) return false;
-        if(!password.matches(".*[a-z].*")) return false;
-        if(!password.matches(".*[^A-Za-z0-9].*")) return false;
-        if (!password.matches(".*[0-9].*")) return false;
-        for(int i = 1 ; i < password.length() ; i++ ){
-            if(password.charAt(i)==password.charAt(i-1)) return false;
+        if (password.length() < 8) return false;
+        boolean l = false;
+        boolean u = false;
+        boolean d = false;
+        boolean s = false;
+        String sp = "!@#$%^&*()-+";
+        for (int i = 0; i < password.length(); i++) {
+            char ch = password.charAt(i);
+            if (Character.isLowerCase(ch))
+                l = true;
+            else if (Character.isUpperCase(ch))
+                u = true;
+            else if (Character.isDigit(ch))
+                d = true;
+            else if (sp.indexOf(ch) != -1)
+                s = true;
+            if (i > 0 && password.charAt(i) == password.charAt(i - 1))
+                return false;
         }
-        return true;
+        return l && u && d && s;
     }
 }
