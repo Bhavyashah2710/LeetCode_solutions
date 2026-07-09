@@ -148,6 +148,7 @@
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -191,6 +192,7 @@
 | [0205-isomorphic-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1108-defanging-an-ip-address) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Greedy
