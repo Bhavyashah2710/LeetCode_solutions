@@ -185,6 +185,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0006-zigzag-conversion) |
 | [0076-minimum-window-substring](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
