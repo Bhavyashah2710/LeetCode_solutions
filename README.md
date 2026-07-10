@@ -195,6 +195,7 @@
 | [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1528-shuffle-string) |
@@ -219,6 +220,7 @@
 | [0283-move-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -273,6 +275,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Greedy
@@ -294,6 +297,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
