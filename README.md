@@ -133,6 +133,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0118-pascals-triangle) |
@@ -185,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0006-zigzag-conversion) |
 | [0076-minimum-window-substring](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
@@ -212,6 +214,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0027-remove-element) |
