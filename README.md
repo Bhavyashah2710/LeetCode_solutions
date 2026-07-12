@@ -197,6 +197,7 @@
 | [0179-largest-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -228,6 +229,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
