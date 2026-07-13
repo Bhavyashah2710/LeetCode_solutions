@@ -336,4 +336,8 @@
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
