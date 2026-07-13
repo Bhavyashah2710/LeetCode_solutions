@@ -161,6 +161,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -331,4 +332,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
