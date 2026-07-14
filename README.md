@@ -91,6 +91,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
@@ -150,6 +151,7 @@
 | [0009-palindrome-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0263-ugly-number) |
@@ -235,6 +237,7 @@
 | [0125-valid-palindrome](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
