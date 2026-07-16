@@ -147,6 +147,7 @@
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -359,4 +361,12 @@
 | [0204-count-primes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2427-number-of-common-factors) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
