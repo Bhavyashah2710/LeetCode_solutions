@@ -1,9 +1,10 @@
-import java.util.*;
+import java.math.*;
 class Solution {
     public int divide(int dividend, int divisor) {
+        
         int quo = dividend / divisor;
-        if(dividend== -2147483648 && divisor==-1){
-            quo = 2147483647;
+        if(dividend==Integer.MIN_VALUE && divisor==-1){
+            return Integer.MAX_VALUE;
         }
         return quo;
     }
