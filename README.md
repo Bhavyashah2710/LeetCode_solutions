@@ -59,6 +59,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -172,6 +173,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2427-number-of-common-factors](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
