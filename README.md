@@ -148,6 +148,7 @@
 | [0042-trapping-rain-water](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
 ## Math
@@ -221,6 +222,7 @@
 | [0242-valid-anagram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0443-string-compression) |
@@ -255,6 +257,7 @@
 | [0283-move-zeroes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0881-boats-to-save-people) |
