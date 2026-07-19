@@ -5,7 +5,6 @@ class Solution {
             b = a % b;
             a = temp;
         }
-
         return a;
     }
     public int findGCD(int[] nums) {
