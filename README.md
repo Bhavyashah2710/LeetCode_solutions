@@ -47,6 +47,7 @@
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -311,6 +312,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -320,6 +322,7 @@
 | [0415-add-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1260-shift-2d-grid) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
