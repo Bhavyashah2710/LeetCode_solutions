@@ -241,6 +241,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2299-strong-password-checker-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2299-strong-password-checker-ii) |
+| [2490-circular-sentence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2490-circular-sentence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
