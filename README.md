@@ -259,6 +259,7 @@
 | [2299-strong-password-checker-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2299-strong-password-checker-ii) |
 | [2490-circular-sentence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3110-score-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -313,6 +314,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -412,4 +414,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
