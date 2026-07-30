@@ -190,6 +190,7 @@
 | [2427-number-of-common-factors](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -258,6 +259,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2299-strong-password-checker-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2299-strong-password-checker-ii) |
 | [2490-circular-sentence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2490-circular-sentence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -361,6 +363,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Union-Find
