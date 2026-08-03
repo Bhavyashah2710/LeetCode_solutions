@@ -42,6 +42,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -161,6 +162,7 @@
 | [0118-pascals-triangle](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
 ## Math
 |  |
@@ -181,6 +183,7 @@
 | [0509-fibonacci-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -421,9 +424,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
