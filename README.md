@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
@@ -174,6 +175,7 @@
 | [0009-palindrome-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0204-count-primes) |
@@ -443,4 +445,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
