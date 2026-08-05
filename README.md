@@ -23,6 +23,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0204-count-primes) |
@@ -91,6 +92,7 @@
 | [0069-sqrtx](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0367-valid-perfect-square) |
