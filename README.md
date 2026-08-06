@@ -207,6 +207,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -425,6 +426,7 @@
 | [0204-count-primes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Brainteaser
 |  |
