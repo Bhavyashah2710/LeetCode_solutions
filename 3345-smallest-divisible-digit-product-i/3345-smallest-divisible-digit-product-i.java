@@ -9,8 +9,7 @@ class Solution {
     }
     public int smallestNumber(int n, int t) {
         while(true){
-            int v = n ;
-            int b = fun(v) ;
+            int b = fun(n) ;
             if(b % t == 0) return n ;
             n++ ;
         }
