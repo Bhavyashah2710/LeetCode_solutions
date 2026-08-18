@@ -197,6 +197,7 @@
 | [0009-palindrome-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0202-happy-number) |
@@ -252,6 +253,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0342-power-of-four) |
