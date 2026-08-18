@@ -79,6 +79,7 @@
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -453,6 +454,7 @@
 | [0204-count-primes](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Brainteaser
