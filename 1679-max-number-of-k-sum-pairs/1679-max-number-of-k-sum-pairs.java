@@ -1,16 +1,19 @@
 class Solution {
-    public int maxOperations(int[] b, int k) {
-        HashMap<Integer, Integer> m = new HashMap<>();
-        int v = 0;
-        for (int n : b) {
-            int d = k - n;
-            if (m.getOrDefault(d, 0) > 0) {
-                v++;
-                m.put(d, m.get(d) - 1);
-            } else {
-                m.put(n, m.getOrDefault(n, 0) + 1);
+    public int maxOperations(int[] num, int k) {
+        int i = 0 ;
+        int j = num.length - 1 ;
+        int v = 0 ;
+        Arrays.sort(num) ;
+        while(i<j){
+            int m = num[i] + num[j] ;
+            if(m == k){
+                v++ ;
+                i++ ;
+                j-- ;
             }
+            else if( m > k ) j-- ;
+            else i++ ; 
         }
-        return v;
+        return v ;
     }
 }
