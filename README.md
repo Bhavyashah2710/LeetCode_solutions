@@ -72,6 +72,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -144,6 +145,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -334,6 +336,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0948-bag-of-tokens) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -360,6 +363,7 @@
 | [1288-remove-covered-intervals](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2126-destroying-asteroids) |
