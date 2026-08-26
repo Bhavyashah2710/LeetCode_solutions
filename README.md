@@ -149,6 +149,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -175,6 +176,7 @@
 | [0383-ransom-note](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/0383-ransom-note) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -305,6 +307,7 @@
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2299-strong-password-checker-ii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2299-strong-password-checker-ii) |
 | [2490-circular-sentence](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/2490-circular-sentence) |
@@ -389,6 +392,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhavyashah2710/LeetCode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
